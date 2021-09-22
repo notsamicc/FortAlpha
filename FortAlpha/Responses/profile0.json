@@ -1,0 +1,47 @@
+{
+  "profileRevision": 480,
+  "profileId": "profile0",
+  "profileChangesBaseRevision": 480,
+  "profileChanges": [
+    {
+      "changeType": "fullProfileUpdate",
+      "profile": {
+        "_id": "faefefcfdaad4eae8aed65c3139376f8",
+        "created": "2017-08-29T20:38:59.824Z",
+        "updated": "2017-12-25T02:08:43.518Z",
+        "rvn": 480,
+        "wipeNumber": 9,
+        "accountId": "b810c129520946d6801a58bb9d5859fc",
+        "profileId": "profile0",
+        "version": "s1",
+        "notifications": 10,
+        "level": 50,
+        "stats": {
+          "level": 50,
+          "templateId": "profile_v2",
+          "attributes": {
+            "node_costs": {
+              "t1_main_nodepage_layer1": {
+                "Token:homebasepoints": 5
+              }
+            },
+            "level": 30,
+            "xp": 36000,
+            "level_info": 20,
+            "totalBalance": 500,
+            "homebase": {
+              "townName": "Name",
+              "flagPattern": 5,
+              "flagColor": 0,
+              "level": 30
+            },
+            "commandRevision": 263
+          }
+        }
+      }
+    }
+  ],
+  "profileCommandRevision": 263,
+  "serverTime": "2017-12-25T11:48:28.089Z",
+  "responseVersion": 1
+}
